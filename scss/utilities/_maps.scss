@@ -1,0 +1,15 @@
+$spacings: (
+    abajo: 150px,
+    izquierda: 10px,
+    derecha: 10px
+);
+
+#ubicacion {
+    margin-bottom: map-get($spacings , abajo ) ;
+    margin-left: map-get($spacings , izquierda ) ;
+    margin-right: map-get($spacings , derecha ) ;
+}
+
+#precios {
+    margin-bottom: map-get($spacings , abajo );
+}

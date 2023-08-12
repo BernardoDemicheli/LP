@@ -1,0 +1,23 @@
+#inicio {
+    margin-bottom: 100px;
+    .carousel {
+        margin-top: 150px;
+        width: 400px;
+        height: 400px;
+    }
+    .intro {
+        p {
+            font-family: 'Kanit', sans-serif; 
+            font-size: 22px;
+            margin-left: 15px;
+            margin-right: 15px;
+        }
+         img {
+            border: $bordes;
+            height: 250px;
+            width: 400px;
+            margin-right: 15px;
+            margin-left: 15px;
+        }
+    }
+}

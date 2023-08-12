@@ -1,0 +1,15 @@
+#ubicacion {
+    .text-center {
+        font-family: 'Kanit', sans-serif;
+        font-size: 20px;
+        border-bottom: 2.5px solid red;
+    }
+    .ubi {
+        background-color: #fffff9;
+        border: 2px solid black;
+        .texto-ubi {
+            font-family: 'Kanit', sans-serif;
+            font-size: 18px;
+        }
+    }
+}
